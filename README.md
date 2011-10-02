@@ -1,6 +1,6 @@
 ## Overview
 
-A packaging of (WideImage)[http://wideimage.sourceforge.net/] for (GetSparks)[http://getsparks.org/]. 
+A packaging of [WideImage](http://wideimage.sourceforge.net/) for [GetSparks](http://getsparks.org/). 
 
 We really do not add any extra magic to the library. Please refer to WideImage's website to learn more about this package. 
 
